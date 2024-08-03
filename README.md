@@ -11,7 +11,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/your-repo.git
+git clone [https://github.com/yourusername/your-repo.git](https://github.com/SandeshNaikKS/Naik.git)
 cd your-repo
 Install Dependencies
 
