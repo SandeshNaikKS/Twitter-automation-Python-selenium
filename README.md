@@ -1,6 +1,7 @@
-# Naik
+****# Naik
 This repository contains the code for "Twitter (X) Automation "
 This Python script automates the process of logging into Twitter, following a list of users, and liking a specific tweet. It uses Selenium WebDriver to interact with Twitter's web interface.
+
 
 Prerequisites
 Python 3.x installed
@@ -57,3 +58,4 @@ Feel free to submit issues, improvements, or feature requests via GitHub issues 
 License
 This project is licensed under the MIT License.
 
+****
