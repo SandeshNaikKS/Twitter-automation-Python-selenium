@@ -1,5 +1,3 @@
-Here's a **README** file for your Selenium-based Twitter bot project:
-
 ---
 
 # Twitter Bot Using Selenium
