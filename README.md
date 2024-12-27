@@ -1,5 +1,3 @@
----
-
 # Twitter Bot Using Selenium
 
 This bot automates the following tasks on Twitter:
